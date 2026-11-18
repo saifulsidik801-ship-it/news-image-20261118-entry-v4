@@ -4,7 +4,9 @@
 The entry image is the entry.png beside this file, and the program
 copies it to /output/entry.png. The image itself was drawn by the
 builder's own render script and committed here; the graded program
-needs no network and no third-party package.
+needs no network and no third-party package. The image is a
+1280x1640 front page: 50 verified stories, two illustrated heroes,
+a world map with 15 pins, and a day-in-brief.
 
 Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for
 /output:
